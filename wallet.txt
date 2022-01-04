@@ -1,0 +1,44 @@
+safe moon
+0x138DE200029A82223f70cF8Fed9559CdDbd80f18
+
+shib erc20
+0x138DE200029A82223f70cF8Fed9559CdDbd80f18
+
+cake bep20
+0x138DE200029A82223f70cF8Fed9559CdDbd80f18
+
+Solana
+5uRvX5zjRfdcMFUVrevX6RhmAwyMZStnpFNt7eW5pUwe
+
+Tron
+TAymJMmvBYzCGaz7YtosSphRi4RCbSJZot
+
+BNB bnb
+bnb1kwg5udkh5xx6rt4wusq7d4d4wxypnet7jhq8lm
+
+BNB bep20
+0x138DE200029A82223f70cF8Fed9559CdDbd80f18
+
+ETH
+0x138DE200029A82223f70cF8Fed9559CdDbd80f18
+
+USDT
+0x138DE200029A82223f70cF8Fed9559CdDbd80f18
+
+BTC
+bc1q44u7v4tf6h2787guyphynps3ew7hxlgm9dz4v4
+
+DOGE
+D5zwtEEtVb58iZrEhruJXJiudntSfok8Y1
+
+NANO
+nano_3t5h3bhue5jnpdu889g4whe3wuutuqan31d1k18shs155wj3a9cu6gewpbgk
+
+XRP
+rYe2vRsSXKBfysSjuFfzNPGufmU3o2DRZ
+
+MATIC
+0x138DE200029A82223f70cF8Fed9559CdDbd80f18
+
+ATOM
+cosmos17gn6kl6uekz3m26mmcnpc0xvqvxuwjyuykwjg2
