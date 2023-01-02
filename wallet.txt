@@ -1,6 +1,9 @@
 ETH
 0x8adA7ab50bA2CBE2bD04A8fFC93adCF1aC34edfF
 
+NANO
+nano_1ta3wtpimscz8pyryrrd5ifdxxtgnyybs1dmiweooqgkoyiugosmt4btjmao
+
 BNB
 0x8adA7ab50bA2CBE2bD04A8fFC93adCF1aC34edfF
 
